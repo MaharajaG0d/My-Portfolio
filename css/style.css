@@ -342,12 +342,13 @@ button:focus {
 /*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
-/* .my-photo-style{
+
+
+ .my-photo-style{
   width: 300px;
 }
 .home_banner_area {
-  z-index: 1;
-  background: url(../img/banner/maaran-banner.png) no-repeat top center;
+  background: url(../img/banner/maaran-banner.png) ;
   background-position: center;
   background-size: cover;
  }
@@ -462,7 +463,7 @@ button:focus {
           margin-right: 0px; }
           .banner_area .banner_inner .banner_content .page_link a:last-child:before {
             display: none; }
-*/
+
 /* End Home Banner Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
